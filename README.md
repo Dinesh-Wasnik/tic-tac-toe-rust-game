@@ -23,3 +23,10 @@ A simple **single-player Tic Tac Toe** game built in **Rust** with a native GUI 
 - ✅ Linux (tested on Ubuntu), Windows, or macOS
 
 ---
+
+## 📦 How to Build and Run
+  - go inside project folder ```cd tic-tac-toe-rust-game```
+  - Run ```cargo run```
+
+
+

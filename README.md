@@ -2,7 +2,7 @@
 
 A simple **single-player Tic Tac Toe** game built in **Rust** with a native GUI using [`eframe`](https://crates.io/crates/eframe) and [`egui`](https://crates.io/crates/egui). Play against a basic AI opponent on Linux or any desktop system!
 
-![screenshot](/img/screenshot.png) <!-- (Add your screenshot image in root folder with this name) -->
+![screenshot](/img/tic-tac-toe.png) <!-- (Add your screenshot image in root folder with this name) -->
 
 ---
 
